@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Kunai
+  - Ground
+  - Enemy
+  - Enemy_Weapon
+  - HpBar_Character
+  - HpText_Character
+  - GM
+  - UI
+  - NPC
+  - CHARKA_Character
+  - joystick
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Trap
+  - Water
+  - UI
+  - Player
+  - Ground
+  - MenuControl
+  - enemy
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
